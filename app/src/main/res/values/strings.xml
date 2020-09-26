@@ -3,9 +3,16 @@
     <string name="enter_city">Введите город</string>
     <string name="choice_city">Выбор города</string>
     <string name="search">Поиск</string>
-    <string name="error">Ошибка</string>
     <string name="error_message_with_data">Произошла ошибка при загрузке данных. Показаны последние полученные данные о погоде</string>
     <string name="error_message">Произошла ошибка при загрузке данных</string>
     <string name="ok">OK</string>
     <string name="history_search">История поиска</string>
+    <string name="error">Ошибка</string>
+    <string name="select_city">Выберите город</string>
+    <string name="open">Открыть</string>
+    <string name="close">Закрыть</string>
+    <string name="save_city">Сохранить город</string>
+    <string name="city_save_message">Город сохранен</string>
+    <string name="forecast_3_days">Прогноз на 3 дня</string>
+    <string name="error_limited">Вы исчерпали запросы на сегодня</string>
 </resources>
